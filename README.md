@@ -1,6 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a little app that changes the screen based on a method call of GeoLocation on JS. It's simple.
+Get the latitude of the user;
+Show a screen based in what season actually is.
 
 ## Available Scripts
+First, clone the repo, then, run:
+
+### `npm install`
+
+This is for download all the dependencies listed on the package.json file.<br>
 
 In the project directory, you can run:
 
